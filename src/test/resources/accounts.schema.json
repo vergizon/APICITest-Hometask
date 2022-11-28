@@ -28,7 +28,7 @@
       },
       "currency": {
       "oneOf": [
-         { "type": "string", "multipleOf": "RUB" },
+         { "type": "string", "multipleOf": "RUR" },
          { "type": "string", "multipleOf": "USD" }
       ]
 
